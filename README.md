@@ -1,4 +1,5 @@
 # Coal-Project
+PALINDROME CHECKER
 1.	Introduction:
  A palindrome is a sequence of characters that reads the same forwards and backwards, ignoring spaces, punctuation, and capitalization. Detecting palindromes is a common problem in computer science, often used in string manipulation exercises. In this project, we implemented a palindrome detection program in Assembly Language using the Microsoft Macro Assembler (MASM).
 
